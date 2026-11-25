@@ -22,14 +22,14 @@ Alongside our own products we take on commercial projects for clients, and build
 
 <br>
 
-| | |
-| :-- | :-- |
-| **Web** | Sites, accounts, dashboards, real-time interfaces, APIs |
-| **Apps** | Mobile, desktop and installable web apps |
-| **Games** | Browser, casual and VR |
-| **Bots** | Moderation, alerts and assistants for messengers and social networks |
-| **Servers** | Hosting, domains, mail, backups, monitoring |
-| **Consulting** | Architecture, code and project audits, estimates |
+<table>
+  <tr><td><b>Web</b></td><td>Sites, accounts, dashboards, real-time interfaces, APIs</td></tr>
+  <tr><td><b>Apps</b></td><td>Mobile, desktop and installable web apps</td></tr>
+  <tr><td><b>Games</b></td><td>Browser, casual and VR</td></tr>
+  <tr><td><b>Bots</b></td><td>Moderation, alerts and assistants for messengers and social networks</td></tr>
+  <tr><td><b>Servers</b></td><td>Hosting, domains, mail, backups, monitoring</td></tr>
+  <tr><td><b>Consulting</b></td><td>Architecture, code and project audits, estimates</td></tr>
+</table>
 
 <br>
 
